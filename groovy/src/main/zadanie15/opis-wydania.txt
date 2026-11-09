@@ -1,0 +1,11 @@
+Wersja 1.0.0
+
+Nowe możliwości
+- zapisywanie koszyka na później
+- wybór paczkomatu przy zamówieniu
+
+Poprawki
+- poprawny rabat przy zakupie dwóch produktów
+
+Szybsze działanie
+- szybsze wyszukiwanie produktów

@@ -1,0 +1,5 @@
+feat: zapisywanie koszyka na później
+fix: poprawny rabat przy zakupie dwóch produktów
+docs: instrukcja uruchamiania projektu
+feat: wybór paczkomatu przy zamówieniu
+perf: szybsze wyszukiwanie produktów
